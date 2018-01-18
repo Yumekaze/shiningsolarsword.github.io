@@ -5,6 +5,12 @@
 function myFunction() {
     document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
+function showImage() {
+    var img = document.createElement("img");
+    img.setAttribute('src', 'https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/3/3a/Icon_Portrait_Azura.png/68px-Icon_Portrait_Azura.png?version=beadafccef69aa3110f9782483a84a50');
+    var div5 = document.getElementById("image")
+    div5.appendChild(newImage);
+}
 </script>
 </head>
 
@@ -12,15 +18,7 @@ function myFunction() {
 
 <h1>A Web Page</h1>
 <p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
-<script>
-    function showImage() {
-        var img = document.createElement("img");
-        img.setAttribute('src', 'https://d1u5p3l4wpay3k.cloudfront.net/feheroes_gamepedia_en/thumb/3/3a/Icon_Portrait_Azura.png/68px-Icon_Portrait_Azura.png?version=beadafccef69aa3110f9782483a84a50');
-        var div5 = document.createElement('div');
-        div5.appendChild(newImage);
-    }
-</script>
-
+<button type="button" onclick="showImage()">Try it</button>
+<div id="image"></div>
 </body>
 </html>
