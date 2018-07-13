@@ -8,15 +8,20 @@
     var div5 = document.getElementById("image")
     div5.appendChild(img);
 }
+    function showText() {
+    var text = document.createElement("p");
+        text.setAttribute('innerText',file.open("barracks"))
+        var div5 = document.getElementById("image")
+        div5.appendChild(text);
+    }
 </script>
     
 </head>
 
 <body>
 <h1>Blessed Image</h1>
-<script src="barracks.txt" type="text/plain">
-</script>
 <button type="button" onclick="showImage()">Click here</button>
+<button type="button" onclick="showText()">Or here</button>
 <div id="image"></div>
 </body>
 </html>
