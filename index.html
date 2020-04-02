@@ -4,14 +4,18 @@
 		<meta charset="utf-8" />
 		<title>HTMLiveCode</title>
 		<style type="text/css">
-			#hidden_div {
+			.heroSection {
 			    display: none;
 			}
 		</style>
 		<script type="text/javascript">
-			function showDiv(divId, element)
+			function showDiv(chosenElement)
 			{
-			    document.getElementById(divId).style.display = element.value == 1 ? 'block' : 'none';
+			    var heroSections = document.querySelectorAll(".heroSection") 
+			    for (var i=0, max=heroSections.length; i < max; i++) {
+     				heroSections[i].style.display = 'none';
+			    }
+			    document.getElementById(chosenElement.selected).style.display = 'block';
 			}
 			
 		</script>
@@ -19,25 +23,32 @@
 
 	<body>
 		<p>HELLO ELLIOT 2</p>
-		<select id="test" name="form_select" onchange="showDiv('hidden_div', this)">
-		   <option value="0">No</option>
-		   <option value="1">Yes</option>
+		<select id="test" name="form_select" onchange="showDiv(this)">
+		   <option value="abel">Abel</option>
+		   <option value="alfonse">Alfonse</option>
+		   <option value="veronica">Veronica</option>
 		</select>
 		<div id="hidden_div">This is a hidden div</div>
 		<div>
 			<h1>The 5* Lv.40+10 Build Compendium</h1>
+			<div class="heroSection">
 <h2>Abel</h2>
 			<ul>
 	<li>(https://i.redd.it/7k66m391uutz.png) - Swedish_Fear</li>
 			</ul>
+			</div>
 
-      - [**2**](https://i.imgur.com/LeJlYcb.jpg) - FullFrontalAnal 
-
-      - [**3**](https://i.imgur.com/NrIuyx7.png) - Yurio-
-
-      - [**4**](https://i.imgur.com/kiuyor1.png) - ThePinkReaper
-
-      
-		</span>
+      <div class="heroSection">
+<h2>Alfonse</h2>
+			<ul>
+	<li>(https://i.redd.it/7k66m391uutz.png) - Swedish_Fear</li>
+			</ul>
+			</div>
+			      <div class="heroSection">
+<h2>Veronica</h2>
+			<ul>
+	<li>(https://i.redd.it/7k66m391uutz.png) - Swedish_Fear</li>
+			</ul>
+			</div>
 	</body>
 </html>
