@@ -4,14 +4,25 @@
 		<meta charset="utf-8" />
 		<title>HTMLiveCode</title>
 		<style type="text/css">
-			
+			#hidden_div {
+			    display: none;
+			}
 		</style>
 		<script type="text/javascript">
+			function showDiv(divId, element)
+			{
+			    document.getElementById(divId).style.display = element.value == 1 ? 'block' : 'none';
+			}
 			
 		</script>
 	</head>
 
 	<body>
 		<p>HELLO ELLIOT</p>
+		<select id="test" name="form_select" onchange="showDiv('hidden_div', this)">
+		   <option value="0">No</option>
+		   <option value="1">Yes</option>
+		</select>
+		<div id="hidden_div">This is a hidden div</div>
 	</body>
 </html>
