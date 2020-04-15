@@ -1,7 +1,5 @@
-The r/FireEmblemHeroes 5\* Lv.40+10 Build Compendium
+__The r/FireEmblemHeroes 5\* Lv.40+10 Build Compendium__
 -
-
-----
 
 This is meant to highlight feats of dedication in the community, so submissions should be tied directly to a reddit username and have the permission of the owner.
 
