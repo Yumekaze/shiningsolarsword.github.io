@@ -1,52 +1,14 @@
-**The 5* Lv.40+10 Build Compendium**
-
--
+**The r/FireEmblemHeroes 5* Lv.40+10 Build Compendium**
 
 This is meant to highlight feats of dedication in the community, so submissions should be tied directly to a reddit username and have the permission of the owner.
 
--
-
 If you have a 5* Lv.40+10 Hero (especially one that doesn't have an entry yet), comment in the appropriate Compendium Submission thread.
-
--
 
 If you would like to update a previous submission, simply post a top level comment with the new build in the current submission thread. Be sure to tell us you are updating a previous submission.
 
--
-
-If you have any questions, you can contact u/ShiningSolarSword, u/Yumekaze, u/IsidoreTheSloth, u/djb2spirit, or u/KujoQtaro.
-
-&nbsp;
-
+If you have any questions, you can [contact the r/FireEmblemHeroes mod team](https://www.reddit.com/message/compose?to=%2Fr%2FFireEmblemHeroes&subject=&message=)
 
 ----
-
-&nbsp;
-
-**IMPORTANT NOTICE ABOUT MALICIOUS ACTIVITY**
-
--
-
-It has come to the attention of the mod team that a malicious user has been sending private messages to users listed in this thread offering to buy their accounts. If an agreement is reached and the malicious user is granted control of the account, they will not pay, and will in fact attempt to scam money out of the victim to purchase their account back. 
-
--
-
-Be vigilant, and do not trust users who offer to buy, sell, or trade accounts. If you receive these messages, report them both to the mod team and to the reddit admins. If you can provide screenshot evidence as well, that will help us when working with the admins.
-
--
-
-As long as you keep your wits about you and disregard these scam/spam messages, there's nothing to worry about.
-
--
-
-Now enjoy the Compendium!
-
-
-&nbsp;
-
-----
-
-&nbsp;
 
 **The 5* Lv.40+10 Build Compendium**
 -
