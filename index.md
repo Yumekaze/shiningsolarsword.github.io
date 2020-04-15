@@ -1,6 +1,8 @@
 The r/FireEmblemHeroes 5\* Lv.40+10 Build Compendium
 -
 
+----
+
 This is meant to highlight feats of dedication in the community, so submissions should be tied directly to a reddit username and have the permission of the owner.
 
 If you have a 5* Lv.40+10 Hero (especially one that doesn't have an entry yet), comment in the appropriate Compendium Submission thread.
@@ -10,11 +12,6 @@ If you would like to update a previous submission, simply post a top level comme
 If you have any questions, you can [contact the r/FireEmblemHeroes mod team](https://www.reddit.com/message/compose?to=%2Fr%2FFireEmblemHeroes&subject=&message=)
 
 ----
-
-The r/FireEmblemHeroes 5\* Lv.40+10 Build Compendium
--
-
-
 
 -  [**Abel**](https://i.redd.it/7k66m391uutz.png) - Swedish_Fear
 
